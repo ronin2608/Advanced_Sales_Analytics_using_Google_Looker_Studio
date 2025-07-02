@@ -1,15 +1,28 @@
-# Advanced_Sales_Analytics_using_Google_Looker_Studio
+# Sales & Customer Insights Dashboard 📊
 https://lookerstudio.google.com/reporting/1547568e-67c0-4b83-b808-497eced1800a
 
-The project empowers stakeholders with actionable insights and interactive visualizations, supporting strategic decisions in marketing, sales, and customer management. Google Looker Studio dashboards make the data easily accessible and interpretable, fostering data-driven strategies for better business outcomes.
+This project presents a business analytics dashboard built using Google Looker Studio based on raw sales, payment, and customer data.
 
-Project Overview:
-This project involves analyzing sales data from a retail company to derive actionable insights and create impactful visualizations using SQL, Python, and Google Looker Studio. The dataset comprises multiple tables (customer_detail, order_detail, sku_detail, and payment_detail) representing customers, orders, products, and payments.
+## 🔧 Tools Used:
+- Google Looker Studio
+- Excel
+- SQL
 
-The objectives of this project include:
+## 📈 Key Insights Covered:
+- Monthly Average Order Value (AOV) trend
+- Top 5 products in Mobiles & Tablets category (2022)
+- Repeat vs One-time customer segmentation
+- Payment method-wise revenue, quantity, and net profit
+- Category-wise average quantity sold
 
-Deriving Key Insights: Identifying top-performing products, analyzing category-wise trends, and improving decision-making.
+## 📁 Files Included:
+- `finaldataset.csv` – the raw data used for all visualizations
+- `Sales_Dashboard.pdf` – the complete 3-page interactive dashboard in PDF format
 
-Visualizing Data: Creating interactive dashboards in Google Looker Studio for better understanding and presentation of data.
+> ⚠️ The live dashboard is not currently accessible via Looker Studio due to data source permissions.  
+> Please refer to the PDF version for full visual details.
 
-Customer Behavior Analysis: Highlighting customer payment patterns to support targeted marketing campaigns.
+## 📬 Created by:
+**Yash Sharma**  
+LinkedIn: www.linkedin.com/in/yash-sharma-8701a6217
+Email: sharma.yash2608@gmail.com
